@@ -1,4 +1,14 @@
 {
-"token": "TON TOKEN ICI",
-"prefix":"TON PREFIX ICI"
+    "serviceAccount": {
+        "type": "service_account",
+        "project_id": "activity-discord-bot-db",
+        "private_key_id": "4127cdbbb1ef54ab8d7e20cc7cddae86722d4915",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj2xvcM/SMk7Ri\noZ96JHiKnACWQZDnK6pPfEYmkucCKU55VfRO6MXmrOmKd23m7qLRJV3zWsvOLctu\nmDO1zozBd8Q2iZTmzQwYxW0UnY6A3Epq4h3EGIxj54II29C1zWklEF77mv2XlZmz\nvQ+HMJRuuWBj8wgmjso3vZV42ND81IKFFYPfKayxHrHaIArUIz8ahTxA+xo+CeY4\nkjQX39SLderVSdIp5oHfmO1qUXiOZBUjhraWGQhIrHF0Neflv/2ezlOn6Qz+m/ax\nGCwWm1X9DoAf8IN5bWG5Bx6gkzUyY1Ars/g4h4f9ozmKMsXSvgJN9xUGHsyRvdZW\nTP+q11WFAgMBAAECggEADFEBIEVe1EhFTq/5EFHN0RbBK9+EIv7oai7HCR7msrC5\n1NYDVgEaNb4j6dlopJX7HWnHzO3eFEKN9Y4G6QYRv3h0rRLHY1fgrmX8o92PThwA\n6KrUHkl9bVmur7gc0Tro9IptUU/zpYwZsGXS1SXE1SklrS2h8bVZpDn3EnfdsaYF\nbWuiyt0lb9x94zFiVxzuLAwPWBIIx91knywwra3kJaM8PPPIiGp3khH1UdZiyEQD\nvkG4Zsf5l9Vz2rVVEnV63d9tpElPHv5H+DIYRPG6qHSkHLmg2iF2WdyiRZJsVsqr\nZv9TVbcec6xvkyO397mk425fJDDLnAJ8nmK+GhSZGwKBgQDdYsGKD2f8MWL/yb1p\n/3+3KyUyQ712eUSMgsyIkMQ9ybnyhD7O7+37TOl/40SPIoGsB9z7bmePYIhsj+VY\nC6k17AEN96XCX+K6O+VuuU+ET7+cJOqvEm9I6rcWbyfbfPFLO7I/bxyTT2lDAWVL\nvMTtJ569r1SwbyKtuyTa5LQFwwKBgQC9eaWzZ4fRGXTXqVZPbIIRBrSCTeROjlfm\nLuIc0s2ll4r4oJYumabDrRDdHuxQOOxyz9X5G9eqi6vIZLmd4qKJwJevNud8vEoY\n4PDJR79CYEA/4heHfFxd3vx8zBKjWBOuA25Beej8PnNOBraJULC4hc3nqqIsuRBh\nt1kAln/bFwKBgQDEyXb+EMm+6+tzMVF0ek99cxWiQ4KTYCIlwFKtBfnabokiYJkv\n+ygQnIJmUo9rqCGZ2Hd+69mUIhvCXHphtCPaMYmSb9LhH7h7EKjVrlVXaEgLNOmD\na6COMU1D3NSSDtKxrEO6jTraWtlXXVM8anSl1fUN6V8fYfpycYrGJEs9XwKBgCFx\nCgTrHfaS5qN1uM0V2rMEmvFwq/4Nc4gl+DScJD24zIdrWHZrGhrpPdO5NH5IPbtZ\n4WsxNdRdCHm7BWPPb16exmbfauYCGZXghb8Q0bn2YQCld/+qvGa5B5lDL3ry/a41\n3szhpnR21UUNPERqIHbA7wGXhT4df72vbZ8D8RcLAoGBAKZwT6y8j+YZrSeaA9dP\nQYw73zHCiO5Yj5AeFWO5Vh8YrMeAmfJfRRQF2JUNJvsz4BivJgf6Vo9xaV9J0yLa\n5Y2McDOn8+QdDrYU9RsYE8xhE7VYYugyWpU6Xe9bKhPzXcNsgPWJzTD8zdSQlOsk\ns8sFkSwr45wJ3XLicAawrWcY\n-----END PRIVATE KEY-----\n",
+        "client_email": "firebase-adminsdk-sfmrk@activity-discord-bot-db.iam.gserviceaccount.com",
+        "client_id": "115165867208447199155",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sfmrk%40activity-discord-bot-db.iam.gserviceaccount.com"
+      }
 }
